@@ -1,5 +1,4 @@
 # Neural-Style-Transfer-of-Artistic-Style
-Art to Image Style Transfer using Keras and Tensorflow.
 ***This repository contains the code for Style Transfer from an Art to an Input Image using Keras and Tensorflow.***
 
 All code is written in Python 3 using Google Colaboratory Online GPU.
@@ -20,8 +19,6 @@ All code is written in Python 3 using Google Colaboratory Online GPU.
 
 <img src="Sample Images/content_image.jpg" alt="" width="30%"> <img src="Sample Images/style_image.jpg" alt="" width="30%"> <img src="Sample Images/StyleTransferredImage.png" alt="" width="30%">
 
-
-**Update:** ***Code tested on Windows 64-bit, Ubuntu 16.04 and Google Cloud Server Instance (Ubuntu 16.04, 7.50GB RAM)***
 
 # Resources
 
