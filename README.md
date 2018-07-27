@@ -17,7 +17,7 @@ All code is written in Python 3 using Google Colaboratory Online GPU.
 <img src="content_image.png" alt="" width="30%"> <img src="style_image.png" alt="" width="30%"> <img src="StyleTransferredImage.png" alt="" width="30%">
 
 
-<img src="Input Images/Ariyan.png" alt="" width="30%"> <img src="Input Images/2_style1.png" alt="" width="30%"> <img src="Input Images/Ariyan_neural_style_tresform.png" alt="" width="30%">
+<img src="Input Images/Ariyan.png" alt="" width="30%"> <img src="Input Images/2_style1.png" alt="" width="30%"> <img src="Sample Images/Ariyan_neural_style_tresform.png" alt="" width="30%">
 
 
 # Resources
